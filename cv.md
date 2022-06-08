@@ -3,7 +3,7 @@
 # Anastasia Evdokimovich
 
 ##### Junior Frontend Developer
-============
+-------
 
 ### Contact information:
 
