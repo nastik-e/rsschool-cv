@@ -23,7 +23,7 @@ rsschool-cv
 
 ### About Me
 
-My greatest hobby is learning something new. That`s why I am so passionate about software deve which I see as an endless row of possibilities for self-development. Made a conscious decision to become a frontend developer because I realy enjoy the visual part of the process as much as the technical one. A fast-learner, extremely curious, easily focused on the task and involved into it. I have great communicative skills and good at working in a team. I also like to keep up-to-date in the sphere and try to use the acquired knowledge in order to adapt the process to the modern world and technological standarts.
+My greatest hobby is learning something new. That`s why I am so passionate about software development which I see as an endless row of possibilities for self-development. I made a conscious decision to become a frontend developer because I really enjoy the visual part of the process as much as the technical one. A fast-learner, extremely curious, easily focused on the task and involved into it. I have great communicative skills and am good at working in a team. I also like to keep up-to-date in the sphere and try to use the acquired knowledge in order to adapt the process to the modern world and technological standarts.
 
 -------
 
