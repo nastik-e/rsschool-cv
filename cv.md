@@ -39,6 +39,18 @@ My greatest hobby is learning something new. That`s why I am so passionate about
 ----
 
 ### Code Example
+```
+const areaOrPerimeter = function(l , w) {
+  // Return your answer
+  let result;
+  l === w ? result = l*w : result= 2 * (l + w);
+  return result;
+};
+```
+
+```
+const litres = time => Math.floor (time * 0.5);
+```
 
 -----
 
