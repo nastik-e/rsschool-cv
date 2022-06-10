@@ -70,7 +70,7 @@ English - C1 (Advanced)
 
 Chinese - Intermediate 
 
-French - basic
-
 Polish - basic
+
+French - basic
 
