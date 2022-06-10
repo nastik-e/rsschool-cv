@@ -56,8 +56,8 @@ const litres = time => Math.floor (time * 0.5);
 
 ### Education and courses
 * Minsk State Linguistic University
-* Coursera.org HTML, CSS, and Javascript for Web Developers by John Hopkins University
-* Coursera.org JavaScript Basics by University of California, Davis
+* Coursera.org "HTML, CSS, and Javascript for Web Developers by John Hopkins University"
+* Coursera.org "JavaScript Basics by University of California, Davis"
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ------ 
