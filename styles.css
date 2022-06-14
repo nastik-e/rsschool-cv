@@ -9,67 +9,74 @@ body {
     flex-wrap: wrap;
     margin-top: 30px;
 }
+a {
+    text-decoration: none;
+    color: #fcfcfc;
+}
 
 .name-block {
-    /* height: 350px; */
-    background-color: rgb(183, 179, 179);
+    height: fit-content;
+    background-color: rgb(183, 179, 179, 50%);
+    padding: 10%;
 
 }
 
-h1 {
-    margin: 0px;
-}
 
 .main-info {
     width: 35%;
     font-size: 1.3em;
     background-color: #fb3f5b85;
-    padding: 20px;
+    padding: 30px;
     box-sizing: border-box;
     color: #fcfcfc;
 }
 
 .my-photo {
-    width: 80%;
-    border-radius: 40px;
+    /* width: 80%; */
+    border-radius: 40%;
     border: 5px solid #fcfcfc;
+    margin: 0px 15%;
 
 }
 
 .info {
     width: 64%;
-    padding: 10px;
     box-sizing: border-box;
 }
 
 h3 {
     text-transform: uppercase;
-    text-decoration: underline;
+    margin-bottom: 0px;
+    font-size:xx-large;
+    font-weight: 600;
 }
 
-
-/* .header {
-    display: flex;
-    margin-top: 30px;
+hr {
+    border-top: 3px solid;
 }
 
-.myPhoto {
-    width: 34%;
-    border-radius: 10%;
-    padding: 20px;
-    box-sizing: border-box;
-}
-
-.nameBlock {
-    width: 66%;
-    vertical-align: auto;
-    margin: 50px 20px;
-} */
 
 .name {
-    font-size: 3em;
+    font-size: 3.5em;
     color: #FB3F5C;
+    margin: 0px;
+    text-shadow: 1px 1px 2px #3b3b3b;
+}
 
+h2 {
+    font-size: 2em;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #3b3b3b;
+}
+
+.additional-info {
+    padding:  35px;
+    color: #515151;
+    line-height: 30px;
+}
+
+.additional-info hr {
+    color:#FB3F5C
 }
 
 ul {
