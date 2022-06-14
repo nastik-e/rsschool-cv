@@ -1,0 +1,107 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    margin: 30px 50px 0px 50px;
+}
+a {
+    text-decoration: none;
+    color: #fcfcfc;
+}
+
+.name-block {
+    height: fit-content;
+    background-color: rgb(183, 179, 179, 50%);
+    padding: 10%;
+
+}
+
+
+.main-info {
+    width: 35%;
+    font-size: 1.3em;
+    background-color: #fb3f5b85;
+    padding: 30px;
+    box-sizing: border-box;
+    color: #fcfcfc;
+}
+
+.my-photo {
+    /* width: 80%; */
+    border-radius: 40%;
+    border: 5px solid #fcfcfc;
+    margin: 0px 15%;
+
+}
+
+.info {
+    width: 64%;
+    box-sizing: border-box;
+}
+
+h3 {
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    font-size:xx-large;
+    font-weight: 600;
+}
+
+hr {
+    border-top: 3px solid;
+}
+
+
+.name {
+    font-size: 3.5em;
+    color: #FB3F5C;
+    margin: 0px;
+    text-shadow: 1px 1px 2px #3b3b3b;
+}
+
+h2 {
+    font-size: 2em;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #3b3b3b;
+}
+
+.additional-info {
+    padding:  35px;
+    color: #515151;
+    line-height: 30px;
+}
+
+.additional-info hr {
+    color:#FB3F5C
+}
+
+ul {
+  padding: 0px;  
+}
+
+.code-example {
+    border: 1px solid rgb(165, 165, 165);
+    width: 80%;
+    padding: 15px 20px;
+}
+
+.footer {
+    height: 70px;
+    background-color: rgb(217, 217, 217);
+    margin-top: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-end;
+    } 
+
+.githublink {
+    color: #000;
+}
